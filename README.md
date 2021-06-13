@@ -18,4 +18,4 @@ This repository contains :
 	- iterator & generator
 	- enumerate, lambda, map, filter, zip
 	
-	update 2021/06/14 02:36	
+	update 2021/06/14 02:38
